@@ -12,7 +12,7 @@ How to Setup :
 2. run the Flask framework using "python app.py"
 3. Go to the browser at port 5000
 
-
+![Alt text](dash_1.png?raw=true "Optional Title")
 
 Members :
 1. Charan Lellaboyena Teja 111218815
